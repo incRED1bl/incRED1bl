@@ -8,6 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=incRED1bl&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #In every situation run in terminal
-'''bash
+```bash
 sudo rm -rf
-'''
+```
