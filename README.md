@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=incRED1bl&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# If you stressed, just run in terminal
+## If you stressed,  just run in terminal
 ```bash
 sudo rm -rf
 ```
